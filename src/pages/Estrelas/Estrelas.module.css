@@ -1,0 +1,25 @@
+.estrela {
+    width: 100%;
+    min-height: 90vh;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #3b3b3b;
+    flex-wrap: wrap;
+    color: var(--white);
+    background-image: url(https://hypescience.com/wp-content/uploads/2014/06/Space.tga_.jpg);
+    gap: 20vh;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+  }
+
+.divestrela{
+    flex-basis: 33%;
+    height: 30vh;
+    background-color:#303030;
+    max-width: 20vw;
+    border-radius: 40px;
+    border: solid white 3px;
+    text-align: center;
+}

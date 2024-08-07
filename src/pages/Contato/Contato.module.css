@@ -1,0 +1,17 @@
+.sobre {
+    width: 100%;
+    min-height: 90vh;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #3b3b3b;
+    color: var(--white);
+    background-image: url(https://hypescience.com/wp-content/uploads/2014/06/Space.tga_.jpg);
+  }
+
+form{display: grid;
+grid-template-columns: 10vw 30vw;
+grid-template-rows: 3vh 3vh 10vh 5vh;}
+
+.form_button{grid-column: span 2;}

@@ -1,0 +1,75 @@
+{
+    "estrelas": [
+      {
+        "nome": "Sol",
+        "temperatura_media": "5,500°C",
+        "tipo": "G2V",
+        "distancia_da_terra": "0 light-years",
+        "tamanho": "1.4 million km (diâmetro)"
+      },
+      {
+        "nome": "Sirius",
+        "temperatura_media": "9,940°C",
+        "tipo": "A1V",
+        "distancia_da_terra": "8.6 light-years",
+        "tamanho": "1.7 million km (diâmetro)"
+      },
+      {
+        "nome": "Betelgeuse",
+        "temperatura_media": "3,500°C",
+        "tipo": "M1-M2Iab",
+        "distancia_da_terra": "642 light-years",
+        "tamanho": "1.2 billion km (diâmetro)"
+      },
+      {
+        "nome": "Alpha Centauri A",
+        "temperatura_media": "5,790°C",
+        "tipo": "G2V",
+        "distancia_da_terra": "4.37 light-years",
+        "tamanho": "1.2 million km (diâmetro)"
+      },
+      {
+        "nome": "Vega",
+        "temperatura_media": "9,602°C",
+        "tipo": "A0V",
+        "distancia_da_terra": "25 light-years",
+        "tamanho": "2.7 million km (diâmetro)"
+      },
+      {
+        "nome": "Polaris",
+        "temperatura_media": "6,015°C",
+        "tipo": "F7Ib",
+        "distancia_da_terra": "433 light-years",
+        "tamanho": "44 million km (diâmetro)"
+      },
+      {
+        "nome": "Altair",
+        "temperatura_media": "7,540°C",
+        "tipo": "A7V",
+        "distancia_da_terra": "16.7 light-years",
+        "tamanho": "1.9 million km (diâmetro)"
+      },
+      {
+        "nome": "Capella",
+        "temperatura_media": "4,825°C",
+        "tipo": "G8III",
+        "distancia_da_terra": "42.2 light-years",
+        "tamanho": "8.1 million km (diâmetro)"
+      },
+      {
+        "nome": "Aldebaran",
+        "temperatura_media": "4,000°C",
+        "tipo": "K5III",
+        "distancia_da_terra": "65 light-years",
+        "tamanho": "44 million km (diâmetro)"
+      },
+      {
+        "nome": "Mira",
+        "temperatura_media": "3,000°C",
+        "tipo": "M7e",
+        "distancia_da_terra": "360 light-years",
+        "tamanho": "860 million km (diâmetro)"
+      }
+    ]
+  }
+  
